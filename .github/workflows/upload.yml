@@ -1,0 +1,8 @@
+steps:
+  - name: Setup YouTube Uploader
+    uses: AnimMouse/setup-youtubeuploader@v2
+    with:
+      client_secrets: ${{ secrets.YOUTUBE_CLIENT_SECRETS }}
+      request_token: ${{ secrets.YOUTUBE_REQUEST_TOKEN }}
+      
+  - run: youtubeuploader -filename video.mkv
