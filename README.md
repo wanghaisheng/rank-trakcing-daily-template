@@ -17,6 +17,12 @@ https://github.com/marketplace/actions/auto-website-to-gif-or-webp
 
 get screenshot video for each domain, concat into video depend on total size,
 
+
+advance video
+
+https://github.com/Escaflowne1985/MyScriptPublic/tree/a7bf4f390ff3d63102424c1f8476f7505f4c8d07/Video%20Make
+
+
 upload to youtube 
 
 post update to reddit 
